@@ -1,0 +1,16 @@
+=============Train Result==========
+1 : Best Error Rate : 0.5
+2 : Best Error Rate : 0.14
+3 : Best Error Rate : 0.14
+4 : Best Error Rate : 0.14
+5 : Best Error Rate : 0.14
+6 : Best Error Rate : 0.13
+7 : Best Error Rate : 0.13
+8 : Best Error Rate : 0.13
+9 : Best Error Rate : 0.13
+10 : Best Error Rate : 0.13
+11 : Best Error Rate : 0.13
+12 : Best Error Rate : 0.13
+13 : Best Error Rate : 0.13
+14 : Best Error Rate : 0.13
+15 : Best Error Rate : 0.13

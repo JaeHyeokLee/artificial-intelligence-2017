@@ -1,0 +1,4 @@
+python 2013920049.py 0.1
+python 2013920049.py 0.15
+python 2013920049.py 0.2
+pause

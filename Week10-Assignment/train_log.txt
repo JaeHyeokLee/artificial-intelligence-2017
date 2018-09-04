@@ -1,0 +1,27 @@
+=============Train Result==========
+Epoch 0 - Error Rate : 0.5
+Epoch 1 - Error Rate : 0.5
+Epoch 2 - Error Rate : 0.5
+Epoch 3 - Error Rate : 0.5
+Epoch 4 - Error Rate : 0.5
+Epoch 5 - Error Rate : 0.25
+Epoch 6 - Error Rate : 0.25
+Epoch 7 - Error Rate : 0.25
+Epoch 8 - Error Rate : 0.25
+Epoch 9 - Error Rate : 0.25
+Epoch 10 - Error Rate : 0.25
+Epoch 11 - Error Rate : 0.25
+Epoch 12 - Error Rate : 0.25
+Epoch 13 - Error Rate : 0.25
+Epoch 14 - Error Rate : 0.25
+Epoch 15 - Error Rate : 0.25
+Epoch 16 - Error Rate : 0.25
+Epoch 17 - Error Rate : 0.25
+Epoch 18 - Error Rate : 0.25
+Epoch 19 - Error Rate : 0.25
+Epoch 20 - Error Rate : 0.25
+Epoch 21 - Error Rate : 0.25
+Epoch 22 - Error Rate : 0.25
+Epoch 23 - Error Rate : 0.25
+Epoch 24 - Error Rate : 0.25
+Epoch 25 - Error Rate : 0.0

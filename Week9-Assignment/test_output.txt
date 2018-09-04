@@ -1,0 +1,6 @@
+=============Test Result==========
+Test Sample 1 - Label : 0, Result : 0 -> True
+Test Sample 2 - Label : 1, Result : 1 -> True
+Test Sample 3 - Label : 1, Result : 1 -> True
+Test Sample 4 - Label : 0, Result : 0 -> True
+Error Rate : 0
